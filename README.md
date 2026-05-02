@@ -13,10 +13,10 @@ I'm also interested in applying **machine learning** to cosmological simulations
 | Repo | What it does |
 |---|---|
 | [semianalytic_fesc](https://github.com/IvanKostyuk94/semianalytic_fesc) | Semi-analytic pipeline for computing *f*<sub>esc</sub> cell-by-cell on IllustrisTNG galaxies, plus a polynomial fitting model |
+| [outflows](https://github.com/IvanKostyuk94/outflows) | GMM-based identification and characterisation of galactic outflows in TNG50 and SERRA — mass, kinematics, metallicity, and orientation effects |
 | [SuperResolution](https://github.com/IvanKostyuk94/SuperResolution) | `cosmoSR` — a Python/TensorFlow toolkit for training neural networks to super-resolve gridded cosmological simulations |
 | [f_esc](https://github.com/IvanKostyuk94/f_esc) | Notebooks and scripts for analysing escape fractions from CRASH radiative-transfer simulations |
-| [outflows](https://github.com/IvanKostyuk94/outflows) | Measuring galactic outflows in simulations |
 
 ## Get in touch
 
-Feel free to open an issue on any of the repos, or reach me by email.
+Open an issue on any of the repos, or find my papers on [arXiv](https://arxiv.org/search/?searchtype=author&query=Kostyuk%2C+Ivan).
